@@ -1,0 +1,7 @@
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/vayu-apt-config-testing.substvars
+debian/vayu-apt-config-testing/
+out-vayu-apt-config-testing/
+
