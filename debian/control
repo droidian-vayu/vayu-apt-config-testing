@@ -1,0 +1,15 @@
+Source: vayu-apt-config-testing
+Maintainer: droidian-vayu Github Org
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 10),
+               debhelper-compat (= 13),
+Standards-Version: 4.5.0.3
+
+Package: vayu-apt-config-testing
+Architecture: all
+Pre-Depends: apt,
+Depends: ${misc:Depends},
+         ca-certificates,
+         vayu-apt-keyrings,
+Description: APT configs for droidian-vayu github testing apt repo

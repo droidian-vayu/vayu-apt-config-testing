@@ -1,0 +1,2 @@
+/usr/share/vayu-apt-config/sources.list.d/vayu-testing.sources /etc/apt/sources.list.d/vayu-testing.sources
+/usr/share/vayu-apt-config/preferences.d/10-vayu-testing /etc/apt/preferences.d/10-vayu-testing
