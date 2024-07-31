@@ -1,0 +1,7 @@
+vayu-apt-config-testing (1+git20240731222959.80a93ab.trixie) trixie; urgency=medium
+
+  [berbascum]
+  * (80a93ab) Add debian packaging 
+  * (2637104) Add the pkg_rootfs dir with the package files 
+
+ -- berbascum <berbascum@ticv.cat>  Wed, 31 Jul 2024 22:29:59 +0200
